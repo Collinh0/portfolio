@@ -1,0 +1,41 @@
+.image {
+  width: 300px;
+  height: 400px;
+}
+.button {
+  background-color: blue;
+  font-family: fantasy;
+  padding-left: 5px;
+  padding-top: 4px;
+  padding-right: 7px;
+  text-align: center;
+}
+.p {
+  color: black;
+  background-color: antiquewhite;
+  font-style: normal;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-left: 5px;
+  padding-top: 15px;
+  padding-right: 25px;
+
+}
+
+.title {
+  background-color: bisque;
+  padding-right: 100px;
+  margin-right: 7px;
+
+}
+.github {
+  width: 22px;
+  height: 25px;
+  padding-bottom: 200px;
+  padding-left: 30px;
+}
+.git-button {
+  padding-bottom: 4px;
+  padding-left: 3px;
+  padding-top: 5px;
+  align-self: center;
+}
